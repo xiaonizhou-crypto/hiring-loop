@@ -77,6 +77,7 @@ examples/
 - fixed workflow and rules
 - Feishu field notes
 - demo cases
+- repo about text for GitHub setup
 
 ## Not included
 
