@@ -1,5 +1,7 @@
 # HR Agent Team
 
+![HR Agent Team cover](assets/repo-cover.svg)
+
 A minimal prototype for a small HR Agent Team workflow.
 
 This repo captures the smallest working loop that is already running:
@@ -79,6 +81,7 @@ examples/
 - demo cases
 - repo about text for GitHub setup
 - quickstart and use-case notes
+- simple cover and screenshot assets
 
 ## Not included
 
@@ -92,3 +95,7 @@ examples/
 ## Why this repo exists
 
 This repo is a clean public prototype backup before moving the work into the company Git team.
+
+## Preview asset
+
+![Workflow screenshot](assets/workflow-screenshot.svg)
