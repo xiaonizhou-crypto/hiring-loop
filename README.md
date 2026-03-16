@@ -1,8 +1,8 @@
-# HR Agent Team
+# hiring-loop
 
-![HR Agent Team cover](assets/repo-cover.svg)
+![Hiring Loop cover](assets/repo-cover.svg)
 
-A minimal OpenClaw skill prototype for a small HR Agent Team workflow.
+A minimal OpenClaw skill prototype for a small hiring workflow.
 
 This repo now captures that loop in an OpenClaw skill-friendly structure:
 

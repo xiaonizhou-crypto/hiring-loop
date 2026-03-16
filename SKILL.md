@@ -1,9 +1,9 @@
 ---
-name: hr-agent-team
-description: Minimal hiring workflow skill for resume screening, candidate coordination, and hiring ops tracking. Use when building or running a lightweight HR Agent Team flow under one main OpenClaw entry, especially for: (1) first-pass resume screening, (2) request-more-info and interview scheduling messages, (3) candidate reply summaries for Feishu, (4) stage/owner/next-step tracking, and (5) blocked or timeout follow-up reminders.
+name: hiring-loop
+description: "Minimal hiring workflow skill for resume screening, candidate coordination, and hiring ops tracking. Use when building or running a lightweight hiring loop under one main OpenClaw entry, especially for: (1) first-pass resume screening, (2) request-more-info and interview scheduling messages, (3) candidate reply summaries for Feishu, (4) stage/owner/next-step tracking, and (5) blocked or timeout follow-up reminders."
 ---
 
-# HR Agent Team
+# Hiring Loop
 
 Use this skill to run a minimal hiring loop under one main entry.
 

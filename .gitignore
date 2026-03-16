@@ -11,6 +11,7 @@
 # temp
 .tmp/
 tmp/
+dist/
 
 # local env
 .env
